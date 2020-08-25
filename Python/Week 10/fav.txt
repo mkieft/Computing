@@ -1,0 +1,5 @@
+Sara: 20 
+Andrew: 22 
+Kristin: 18 
+Dominika:20 
+Charlie: 22 

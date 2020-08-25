@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1490966360 source:s:\computerscience\malita student shared\cs112malitas17shared\mkieft\week 11\classwork\game1\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"Card.h"
+
+1490966340 s:\computerscience\malita student shared\cs112malitas17shared\mkieft\week 11\classwork\game1\card.h
+
